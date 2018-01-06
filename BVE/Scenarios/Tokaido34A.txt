@@ -1,0 +1,10 @@
+﻿BveTs Scenario 1.00
+
+RouteTitle = 0東海道・山陽新幹線
+Route = CRproject\TokaidoMap34A.txt
+VehicleTitle = 新幹線のぞみ　N700系3000番台
+Vehicle = CRproject\N700\Vehicle.txt
+Author = BVE新幹線制作プロジェクト
+Title = 岡山→東京 のぞみ３４号
+Image = CRproject\N700\train-1.png
+Comment = 

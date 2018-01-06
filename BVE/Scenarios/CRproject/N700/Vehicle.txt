@@ -1,0 +1,7 @@
+BveTs Vehicle 1.00
+PerformanceCurve = Notch\Notch.txt
+Parameters = Parameters.txt
+Panel = Panel2.cfg
+Sound = Sound.cfg
+Ats = ats\N700.dll
+MotorNoise = MotorNoise\MotorNoise.txt

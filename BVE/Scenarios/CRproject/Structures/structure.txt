@@ -1,0 +1,678 @@
+BveTs Structure List 1.00
+#Copyright 2015~2017 Tako 44 brothers
+ RailL0, RailL0.x
+ RailL1, RailL1.x
+ RailL2, RailL2.x
+ RailL3, RailL3.x
+ RailL4, RailL4.x
+ RailR0, RailR0.x
+ RailR1, RailR1.x
+ RailR2, RailR2.x
+ RailR3, RailR3.x
+ RailR4, RailR4.x
+ BtoCnotR,Rails\surabu-ballast-notrail.x
+ BtoC,Rails\surabu-ballast.x
+ BnotR,Rails\notrail.x
+ BallastHasi,hashi\hashimakura.x
+ railstopB,Rails\railstop.x
+ Ballast0, Ballast0.x
+ Ballast25m, Ballast25m.x
+ Ballast125m, Ballast125m.x
+ Ballast1, Ballast1.x
+ Ballast2, Ballast2.x
+ Ballast3, Ballast3.x
+ Ballast4, Ballast4.x
+ Ballast10, Ballast10.x
+ Ballast11, Ballast11.x
+ Ballast12, Ballast12.x
+ Ballast13, Ballast13.x
+ Ballast14, Ballast14.x
+ Ballast20, Ballast20.x
+ Ballast30, Ballast30.x
+ Ballastmat25,Ballastmat25.x
+ Ballastmat50,Ballastmat50.x
+railsaku,Rails\saku.x
+ 
+ surabu15, Rails\surabu5m.x
+ surabu125, Rails\surabu25m.x
+ surabu25, Rails\surabu2-5m.x
+ surabu35, Rails\surabu3-5m.x
+ surabu45, Rails\surabu4-5m.x
+ surabu425, Rails\surabu425m.x
+koukaR,wall.elevatedrailway\koukaR.x
+koukaL,wall.elevatedrailway\koukaL.x
+koukaC,wall.elevatedrailway\Central.x
+koukaR2,wall.elevatedrailway\koukaR2m.x
+koukaL2,wall.elevatedrailway\koukaL2m.x
+koukaR20,wall.elevatedrailway\koukaR20m.x
+koukaL20,wall.elevatedrailway\koukaL20m.x
+koukaRT2,wall.elevatedrailway\koukaRType2.x
+koukaLT2,wall.elevatedrailway\koukaLType2.x
+koukaRT3,wall.elevatedrailway\koukaRType3.x
+koukaLT3,wall.elevatedrailway\koukaLType3.x
+koukaRT3-20,wall.elevatedrailway\koukaRType3_20m.x
+koukaLT3-20,wall.elevatedrailway\koukaLType3_20m.x
+koukaRT4,wall.elevatedrailway\koukaRType4.x
+koukaLT4,wall.elevatedrailway\koukaLType4.x
+#JRê¸ä÷òA
+ kBallast0, JRkagoshima\Ballast0.x
+ kBallast25, JRkagoshima\Ballast25.x
+GataG,hashi\gataG.x
+JRhomeR,N-station\JRhomeR.x
+JRhomeL,N-station\JRhomeL.x
+JRhomeR2,N-station\JRhomeR2.x
+JRhomeL2,N-station\JRhomeL2.x
+onnga1,N-station\JR\onnga1.x
+onnga2,N-station\JR\onnga2.x
+mizu1,N-station\JR\mizu1.x
+mizu2,N-station\JR\mizu2.x
+
+JR
+
+JRsig20,JRkagoshima\signal\signal20.x
+JRsig22,JRkagoshima\signal\signal22.x
+JRsig24,JRkagoshima\signal\signal24.x
+JRsig30,JRkagoshima\signal\signal30.x
+JRsig32,JRkagoshima\signal\signal32.x
+JRsig34,JRkagoshima\signal\signal34.x
+
+oldFormCL,JRkagoshima\form-x\FormCL.x
+oldFormCL2,JRkagoshima\form-x\FormCL2.x
+oldFormCR,JRkagoshima\form-x\FormCR.x
+oldFormCR2,JRkagoshima\form-x\FormCR2.x
+oldFormL,JRkagoshima\form-x\FormL.x
+oldFormL2,JRkagoshima\form-x\FormL2.x
+oldFormR,JRkagoshima\form-x\FormR.x
+oldFormR2,JRkagoshima\form-x\FormR2.x
+oldRoofCL,JRkagoshima\form-x\roofCL.x
+oldRoofCR,JRkagoshima\form-x\roofCR.x
+oldRoofL,JRkagoshima\form-x\roofL.x
+oldRoofR,JRkagoshima\form-x\roofR.x
+oldstawallL,JRkagoshima\form-x\stawallL.x
+oldstawall2,JRkagoshima\form-x\stawallL2.x
+oldstawallR,JRkagoshima\form-x\stawallR.x
+oldstawallR2,JRkagoshima\form-x\stawallR2.x
+
+ #îwåiä÷òA
+
+ Grass, Grass.x
+ City,Background\ground\city.x
+ yamaGra,Background\ground\yamagrass.x
+GroA,mount\Ground1a.x
+GroB,mount\Ground1b.x
+GroC,mount\Ground1c.x
+GroD,mount\Ground1d.x
+GroE,mount\Ground1e.x
+grass1,Background\ground\ground1.x
+grass2,Background\ground\ground2.x
+grass3,Background\ground\ground3.x
+grass4,Background\ground\ground4.x
+grass5,Background\ground\ground5.x
+groundf1,Background\ground\factory01.x
+groundf2,Background\ground\factory02.x
+groundf3,Background\ground\factory03.x
+groundf4,Background\ground\factory04.x
+ machi, machi.x
+ Bg, Bg1.x
+ Bg2, Bg2.x
+ Bg3, Bg3.x
+ Bg4, Bg4.x
+ 
+HitaBg, Background\Background\hitaBG.x
+wakamatsuBG,Background\Background\wakamatsuBG.x
+
+ 
+BKokura1,Background\Background\Kokura1.x
+ 
+ 
+ TBg, Background\ground\TBack.x
+ river,Grounds\river.x
+ river2,Grounds\river2.x
+ umeR,Grounds\ume.x
+ umeL,Grounds\umeL.x
+
+ pier, pier.x
+tyu1,wall.elevatedrailway\tyu-1.x
+tyu2,wall.elevatedrailway\tyu-2.x
+tyub,wall.elevatedrailway\tyu-b.x
+
+
+#city
+
+H-AG,Background\house\houseG.x
+H-AB,Background\house\houseB.x
+H-AR,Background\house\houseR.x
+#B-A,Background\house\billA.x
+B-B1,Background\house\billB.x
+B-B2,Background\house\billB2.x
+B-B3,Background\house\billB3.x
+B-C1,Background\house\billC.x
+B-C2,Background\house\billC2.x
+
+
+
+#Backgroundîwåiä÷òA
+
+DikeL0,Grounds\DikeL.x
+DikeR0,Grounds\DikeR.x
+DikeL11,Grounds\DikeC1L.x
+DikeR11,Grounds\DikeC1R.x
+DikeL212,Grounds\DikeVL.x
+DikeR212,Grounds\DikeVR.x
+DikeL213,Grounds\DikeVLL.x
+DikeR213,Grounds\DikeVRL.x
+Mt,Grounds\Mt.x
+yamat,Grounds\yamatonnel.x
+yamatu,Grounds\yamatonnelup.x
+yama,Grounds\yama.x
+tonsL,tonnel\tstaL.x
+tonsR,tonnel\tstaR.x
+tonsR,tonnel\tstaR.x
+tonsB,tonnel\tstaB.x
+tonsC,tonnel\tstaC.x
+tonsD,tonnel\tstaD.x
+tonkabe,wall.elevatedrailway\kabet.x
+RTKR,tonnel\railkabeR.x
+RTKL,tonnel\railkabeL.x
+tkabeL,tonnel\kabeL.x
+tkabeR,tonnel\kabeR.x
+tonkabeRL,tonnel\kabeLR.x
+STR,tonnel\TstartL.x
+STC,tonnel\TstartC.x
+STL,tonnel\TstartR.x
+tonnotkabe,tonnel\tunnel_notkabe.x
+
+tobataBG,Background\Background\tobata3.x
+
+savesakuR,N-station\saku.x
+savesakuL,N-station\sakuR.x
+#Roadí¨ä÷òA
+
+PL,Background\road\ParkingL.x
+PR,Background\road\ParkingR.x
+RoadL,Background\road\RoadL.x
+RoadR,Background\road\RoadR.x
+RoadB,Background\road\RoadB.x
+RoadC,Background\road\kiyosunaBG.x
+RoadD,Background\road\RoadD.x
+RoadE,Background\road\RoadE.x
+RoadF,Background\road\roadF.x
+
+#ã¥
+RoadFL,Background\road\mizumakiL.x
+RoadFR,Background\road\mizumakiR.x
+
+
+net,Background\road\net.x
+net2m,Background\road\net2.x
+netB,Background\net\net.x
+#äXåöízï®ä÷òA
+groundpark,Background\sisetsu\ground.x#â^ìÆåˆâÄ
+golf,Background\sisetsu\golf.x
+hospitalA,Background\sisetsu\hospital.x
+hospitalB,Background\sisetsu\hospital2.x
+hospital2,Background\sisetsu\hospital2B.x
+tobata1,Background\sisetsu\tobata1.x
+maker1,Background\sisetsu\maker1.x
+factory,Background\sisetsu\factory1.x
+factory2,Background\sisetsu\factory2.x
+factory3,Background\sisetsu\factory3.x
+factory4,Background\sisetsu\factory4.x
+
+doing,Background\sisetsu\doing.x
+Toyoko,Background\sisetsu\hoteltoyoko.x
+Fac-2,Background\sisetsu\F-2.x
+Fac-3,Background\sisetsu\F-3.x
+ShopA,Background\sisetsu\ShopA.x
+ParkingB,Background\road\airParking.x
+
+unoshimaA,Background\BackGround\unoshima.x
+nakatsuhotelA,Background\sisetsu\nakatsuhotel.x
+nakatsuhotelB,Background\sisetsu\nakatsuhotelB.x
+nakatsuA,Background\sisetsu\nakatsuA.x
+nakatsuB1,Background\sisetsu\nakatsuB1.x
+nakatsuB2,Background\sisetsu\nakatsuB2.x
+
+
+bill3,Background\house\bill3.x
+bill4,Background\house\bill4.x
+bill5,Background\house\bill5.x
+bill6A,Background\house\bill6-A.x
+bill6B,Background\house\bill6-B.x
+bill6C,Background\house\bill6-C.x
+bill7A,Background\house\bill7.x
+bill7B,Background\house\bill7B.x
+bill7C,Background\house\bill7C.x
+bill8,Background\house\bill8.x
+bill9,Background\house\bill9.x
+KK08B1,Background\Background\wakamatsu.x
+
+BM-2,Background\house\M-2.x
+BM-3,Background\house\M-3.x
+BM-4,Background\house\M-4.x
+BM-5,Background\house\M-5.x
+BM-6A,Background\house\M-6A.x
+BM-6A2,Background\house\M-6A2.x
+BM-6B,Background\house\M-6B.x
+BM-6C1,Background\house\M-6C1.x
+BM-6C2,Background\house\M-6C2.x
+BM-6D1,Background\house\M-6D1.x
+BM-6D2,Background\house\M-6D2.x
+BM-6D3,Background\house\M-6D3.x
+BM-6J,Background\house\M-6J.x
+BM-7A,Background\house\M-7A.x
+BM-7B,Background\house\M-7B.x
+BM-7C,Background\house\M-7C.x
+BM-7D,Background\house\M-7D.x
+BM-7E,Background\house\M-7E.x
+#BM-8A,Background\house\M-8A.x
+BM-9A,Background\house\M-9A.x
+
+Fsubway1,Background\SG\Fs1.x
+Fsubway2,Background\SG\Fs2.x
+Fsubway3,Background\SG\Fs3.x
+Fsubway4,Background\SG\Fs4.x
+Fsubway5,Background\SG\Fs5.x
+Fsubway6,Background\SG\Fs6.x
+Fsubway7,Background\SG\Fs7.x
+Fsubway8,Background\SG\Fs8.x
+Fsubway9,Background\SG\Fs9.x
+Fsubway10,Background\SG\Fs10.x
+
+
+aghouse1-1,Background\agriculture\house1-1.x
+aghouse1-2,Background\agriculture\house1-2.x
+aghouse2-1,Background\agriculture\house2-1.x
+aghouse2-2,Background\agriculture\house2-2.x
+aghouse2-3,Background\agriculture\house2-3.x
+
+#ãÛç`
+
+A-G1,Background\airport\G1.x
+A-G2,Background\airport\G2.x
+tar1,Background\airport\tar1.x
+tar2,Background\airport\tar2.x
+SF-A,Background\airport\SF-A.x
+#óÒé‘ë¨ìxä÷òA
+car2,ATC\car2.x
+car4,ATC\car4.x
+car6,ATC\car6.x
+car8,ATC\car8.x
+car10,ATC\car10.x
+car12,ATC\car12.x
+car-,ATC\car-.x
+#station
+
+
+Freeobj124R,N-station\winR.x
+Freeobj124L,N-station\winL.x
+Freeobj124C,N-station\winC.x
+Freeobj124H,N-station\winH.x
+
+
+Freeobj124,N-station\win.x
+Freeobj125,sta\den\fdr4.x
+Freeobj126,sta\den\fdr3.x
+Freeobj127,sta\den\fdl2.x
+Freeobj128,sta\den\fdl1.x
+
+sakuJRhome2R,N-station\JRhome2sakuR.x
+sakuJRhome2L,N-station\JRhome2sakuL.x
+
+homedoor2L,N-station\door\homedoor2L.x
+homedoor2R,N-station\door\homedoor2R.x
+homedoor4L,N-station\door\homedoorL.x
+homedoor4R,N-station\door\homedoorR.x
+
+Ssekkin,N-station\sign\sekkin.x
+Sgenkai,N-station\sign\genkai.x
+Sgenkai-ue,N-station\sign\genkai2.x
+
+
+
+#new
+homeR,N-station\homeR.x
+homeL,N-station\homeL.x
+homeM,N-station\homem.x
+homeR2,N-station\home2R.x
+homeL2,N-station\home2L.x
+homeRB2,N-station\home2B-R.x
+homeLB2,N-station\home2B-L.x
+
+home2-C,N-station\2017\sta2-center.x
+home2-L,N-station\2017\sta2-sideL.x
+home2-R,N-station\2017\sta2-sideR.x
+
+esc1R,N-station\escL.x
+esc1L,N-station\escR.x
+esc2R,N-station\esc2L.x
+esc2L,N-station\esc2R.x
+yaneRhashira,N-station\yaneLhashira.x
+yaneR,N-station\yaneR.x
+yaneL,N-station\yaneL.x
+yane2R,N-station\yaneC-R.x
+yane2L,N-station\yaneC-L.x
+yaneC,N-station\yaneC.x
+yaneBR,N-station\yaneB-R.x
+yaneBL,N-station\yaneB-L.x
+yaneBC,N-station\yaneB-C.x
+yane2BR,N-station\yaneB2-R.x
+yane2BL,N-station\yaneB2-L.x
+yane2BC,N-station\yaneB2-C.x
+homeMR,N-station\homem-2.x
+homeMG,N-station\homem-3.x
+homeMB,N-station\homem-4.x
+yaneLR,N-station\yaneL2.x
+yaneLG,N-station\yaneL3.x
+yaneLB,N-station\yaneL4.x
+yaneRR,N-station\yaneR2.x
+yaneRG,N-station\yaneR3.x
+yaneRB,N-station\yaneR4.x
+yane2LR,N-station\yaneC-L2.x
+yane2LG,N-station\yaneC-L3.x
+yane2LB,N-station\yaneC-L4.x
+yane2RR,N-station\yaneC-R2.x
+yane2RG,N-station\yaneC-R3.x
+yane2RB,N-station\yaneC-R4.x
+yaneCR,N-station\yaneC-2.x
+yaneCG,N-station\yaneC-3.x
+yaneCB,N-station\yaneC-4.x
+
+tenjintop,N-station\SpecialStation\tenjintop.x
+stationTkabeR,N-station\SpecialStation\stationkabeL.x
+stationTkabeL,N-station\SpecialStation\stationkabeR.x
+stationTkabeRG,N-station\SpecialStation\stationkabeLG.x
+stationTkabeLG,N-station\SpecialStation\stationkabeRG.x
+stationTkabeRB,N-station\SpecialStation\stationkabeLB.x
+stationTkabeLB,N-station\SpecialStation\stationkabeRB.x
+hometop,N-station\SpecialStation\hometop.x
+hometop180,N-station\SpecialStation\hometop180.x
+hometop2,N-station\SpecialStation\hometop2.x
+homecenter,N-station\SpecialStation\homecenter.x
+
+hometopG,N-station\SpecialStation\hometopG.x
+hometop180G,N-station\SpecialStation\hometop180G.x
+hometop2G,N-station\SpecialStation\hometop2G.x
+homecenterG,N-station\SpecialStation\homecenterG.x
+
+hometopR,N-station\SpecialStation\hometopR.x
+hometop180R,N-station\SpecialStation\hometop180R.x
+hometop2R,N-station\SpecialStation\hometop2R.x
+homecenterR,N-station\SpecialStation\homecenterR.x
+
+hometopB,N-station\SpecialStation\hometopB.x
+hometop180B,N-station\SpecialStation\hometop180B.x
+hometop2B,N-station\SpecialStation\hometop2B.x
+homecenterB,N-station\SpecialStation\homecenterB.x
+
+kaidanmain,N-station\SpecialStation\kaidanmain.x
+kaidanmain180,N-station\SpecialStation\kaidanmain180.x
+
+kaidanmainR,N-station\SpecialStation\kaidanmainR.x
+kaidanmain180R,N-station\SpecialStation\kaidanmain180R.x
+kaidanmainB,N-station\SpecialStation\kaidanmainB.x
+kaidanmain180B,N-station\SpecialStation\kaidanmain180B.x
+kaidanmainG,N-station\SpecialStation\kaidanmainG.x
+kaidanmain180G,N-station\SpecialStation\kaidanmain180G.x
+
+sta-kobe,N-station\2017\sta-kobe.x
+sta-akashi,N-station\2017\sta-akashi.x
+
+
+#Yard
+
+Yard-koA,Background\NKRHD\koA.x
+Yard-koB,Background\NKRHD\koB.x
+Yard-koC,Background\NKRHD\koC.x
+Y-kiti1,Background\NKRHD\kiti.x
+Y-kiti2,Background\NKRHD\kiti2.x
+Y-kiti3,Background\NKRHD\kiti3.x
+Y-kiti4,Background\NKRHD\kiti4.x
+#tonnel
+tel,tonnel\tel.x
+tel2,tonnel\tel2.x
+tonR,tonnel\tunnel_lightR.x
+tonRB,tonnel\tunnel_lightRB.x
+tonLB,tonnel\tunnel_lightLB.x
+tonL,tonnel\tunnel_lightL.x
+tonP,tonnel\tunnel_curve.x
+tonPB,tonnel\tunnel_curveB.x
+tonPend,tonnel\tunnel_curve_ent.x
+
+tonnelY1,Grounds\tonnel1.x
+tonnelY2,Grounds\tonnel2.x
+tonLs,tonnel\tunnel_lightRD.x
+tonRs,tonnel\tunnel_lightLD.x
+tonLBs,tonnel\tunnel_lightRE.x
+tonRBs,tonnel\tunnel_lightLE.x
+
+NtonCL,tonnel\NewTunnel_curve.x
+NtonCD,tonnel\NewTunnel_curve_dark.x
+NtonCLE,tonnel\NewTunnel_curve_ent.x
+NtonCDE,tonnel\NewTunnel_curve_ent_dark.x
+NtonCShE,tonnel\NewTunnel_curve_ent_short.x
+NtonCSmE,tonnel\NewTunnel_curve_ent_small.x
+NtonCBE,tonnel\NewTunnel_curve_ent_big.x
+Nton1CLE,tonnel\NewTunnel2_curve_ent.x
+Nton1CDE,tonnel\NewTunnel2_curve_ent_dark.x
+Ntonsizechange,tonnel\NewTunnel2_curve_ent_sizechange.x
+NtonSC,tonnel\NewTunnel_curve_ent_sizechange.x
+
+
+
+TU,tonnel\yuka.x
+Ton1,tonnel\ton1.x
+Ton2,tonnel\ton2.x
+TY,tonnel\yane.X
+TH,tonnel\hashira.x
+
+HashiG,hashi\Green.x
+HashiR,hashi\Red.x
+HashiB,hashi\Blue.x
+
+hashi-B1,hashi\hashiB1.x
+hashi-B2,hashi\hashiB2.x
+
+#nose kyushu railway train
+SKE1,Trains/E1000/Tc.x
+SKE2,Trains/E1000/M11.x
+SKE3,Trains/E1000/M12.x
+SKE4,Trains/E1000/M21.x
+SKE5,Trains/E1000/M22.x
+SKE6,Trains/E1000/M31.x
+SKE7,Trains/E1000/M32.x
+SKE8,Trains/E1000/Tc2.x
+
+FK1,Trains\T10000\tc.x
+FK2,Trains\T10000\Mc.x
+FK3,Trains\T10000\tc2.x
+FK22,Trains\T10000\Mc2.x
+FK1s1,Trains\T10000\tc.x
+FK1s2,Trains\T10000\tc.x
+FK1s3,Trains\T10000\tc.x
+FK1s4,Trains\T10000\tc.x
+SG1s2,Trains\T10000\SGtc.x
+SG1,Trains\T10000\SGtc-sg.x
+SG1t,Trains\T10000\SGtc-tosu.x
+SG1s,Trains\T10000\sgtc-semisg.x
+SG1kai,Trains\T10000\sgtc-2.x
+SG1sagaair,Trains\T10000\SGtc-sgair.x
+SG2,Trains\T10000\SGmc.x
+SG3,Trains\T10000\SGtc2.x
+
+NG1,Trains\T10000\ngtc-isahaya.x
+NG1k,Trains\T10000\ngtc.x
+NG2,Trains\T10000\ngMc.x
+NG3,Trains\T10000\ngtc2.x
+
+OY1,Trains\T10000\oytc.x
+OY3,Trains\T10000\oytc2.x
+OY1kk,Trains\T10000\oytcLkokura.x
+OY1nk,Trains\T10000\oytcLnakatsu.x
+OY1ts,Trains\T10000\oytcLtosu.x
+KM1,Trains\T10000\kmtc.x
+KM3,Trains\T10000\kmtc2.x
+
+#FK1Enakatsu,Trains\T10000\tcEnakatsu.x#Ç‹ÇæÇ»Ç¢
+FK1Enair,Trains\T10000\tcEnair.x
+FK1EIH,Trains\T10000\tcEIH.x
+FK1Emei,Trains\T10000\tcEmei.x
+FK1Shaka,Trains\T10000\tcShaka.x
+FK1Skoku,Trains\T10000\tcSkoku.x
+FK1Smei,Trains\T10000\tcSmei.x
+FK1LNishi,Trains\T10000\tcLNishi.x
+FK1Lmei,Trains\T10000\tcLmei.x
+FK1Lhashi,Trains\T10000\TcLhashi.x
+#FK1Lshimo,Trains\T10000\tcLshimo.x
+#FK1Lakama,Trains\T10000\tcLakama.x
+OY1Lkokura,Trains\T10000\tc.x#Ç‹ÇæÇ»Ç¢
+
+815-01,Trains\815-0\Tc.x
+815-02,Trains\815-0\Mc.x
+817-01,Trains\817-0\Tc.x
+817-02,Trains\817-0\Mc.x
+817-101,Trains\817-1000\Tc.x
+817-102,Trains\817-1000\Mc.x
+801,Trains\800\800-1.x
+802,Trains\800\800-2.x
+803,Trains\800\800-3.x
+804,Trains\800\800-4.x
+805,Trains\800\800-5.x
+806,Trains\800\800-6.x
+8701,Trains\N7008000\1.x
+8702,Trains\N7008000\2.x
+8703,Trains\N7008000\3.x
+8704,Trains\N7008000\4.x
+8705,Trains\N7008000\5.x
+8706,Trains\N7008000\6.x
+8707,Trains\N7008000\7.x
+8708,Trains\N7008000\8.x
+3701,Trains\N7003000\1.x
+3702,Trains\N7003000\2.x
+3703,Trains\N7003000\3.x
+3704,Trains\N7003000\4.x
+3705,Trains\N7003000\5.x
+3706,Trains\N7003000\6.x
+3707,Trains\N7003000\7.x
+3708,Trains\N7003000\8.x
+3709,Trains\N7003000\9.x
+3710,Trains\N7003000\10.x
+3711,Trains\N7003000\11.x
+3712,Trains\N7003000\12.x
+3713,Trains\N7003000\13.x
+3715,Trains\N7003000\15.x
+3716,Trains\N7003000\16.x
+
+7003001,Trains\700texture\-3000\1.x
+7003016,Trains\700texture\-3000\16.x
+#7007001,Trains\7007000\1.x
+#9231,Trains\923\1.x
+
+#train
+
+kaku_densyasen, kasen\nose_kyushu_railway_power_AC15000V.x
+kaku_densyasen100, kasen\nose_kyushu_railway_power_AC15000V(100m).x
+kaku_densyasen50, kasen\nose_kyushu_railway_power_AC15000V(50m).x
+kaku_densyasen40, kasen\nose_kyushu_railway_power_AC15000V(40m).x
+kaku_densyasen30, kasen\nose_kyushu_railway_power_AC15000V(30m).x
+kaku_densyasen25, kasen\nose_kyushu_railway_power_AC15000V(25m).x
+kaku_densyasenB, kasen\nose_kyushu_railway_AC15000V_help.x
+kaku_densyasen50A, kasen\nose_kyushu_railway_power_AC15000V(50mA).x
+kaku_densyasen50B, kasen\nose_kyushu_railway_power_AC15000V(50mB).x
+kasen-tyu-L1,kasen\nose_kyushu_railway_power_L-1.x
+kasen-tyu-L2,kasen\nose_kyushu_railway_power_L-2.x
+kasen-tyu-R1,kasen\nose_kyushu_railway_power_R-1.x
+kasen-tyu-R2,kasen\nose_kyushu_railway_power_R-2.x
+kasen-tyu-L1T2,kasen\nose_kyushu_railway_power_L-1-TYPE2.x
+kasen-tyu-L2T2,kasen\nose_kyushu_railway_power_L-2-TYPE2.x
+kasen-tyu-R1T2,kasen\nose_kyushu_railway_power_R-1-TYPE2.x
+kasen-tyu-R2T2,kasen\nose_kyushu_railway_power_R-2-TYPE2.x
+kasen-tyu-L1T3,kasen\nose_kyushu_railway_power_L-1-TYPE3.x
+kasen-tyu-L2T3,kasen\nose_kyushu_railway_power_L-2-TYPE3.x
+kasen-tyu-R1T3,kasen\nose_kyushu_railway_power_R-1-TYPE3.x
+kasen-tyu-R2T3,kasen\nose_kyushu_railway_power_R-2-TYPE3.x
+kasen-tyu-F-R,kasen\kasenF-L.x
+kasen-tyu-F-C,kasen\kasenF-C.x
+kasen-tyu-F-L,kasen\kasenF-R.x
+kasen-tyu-F-LR,kasen\kasenF-LR.x
+kasen-tyu-ton1,kasen\ton2-1.x
+kasen-tyu-ton2,kasen\ton2-2.x
+kasen-tyu-sta4-1,kasen\sta4line2-1.x
+kasen-tyu-sta4-2,kasen\sta4line2-2.x
+kasen-tyu-sta4-3,kasen\sta4line3-1.x
+kasen-tyu-sta4-4,kasen\sta4line3-2.x
+kasen-tyu-sta4-5,kasen\sta4line4-1.x
+kasen-tyu-sta4-6,kasen\sta4line4-2.x
+kasen-tyu-sta4-7,kasen\sta4line5-1.x
+kasen-tyu-sta4-8,kasen\sta4line5-2.x
+kasen-tyu-sta4-9,kasen\sta4line6-1.x
+kasen-tyu-sta4-a,kasen\sta4line6-2.x
+
+kasen-tyu-sta2-1,kasen\sta2line2-1.x
+kasen-tyu-sta2-2,kasen\sta2line2-2.x
+kasen-tyu-sta2-3,kasen\kobesta2-1.x
+kasen-tyu-sta2-4,kasen\kobesta2-2.x
+kasen-tyu-sta4-b,kasen\kobesta4-1.x
+kasen-tyu-sta4-c,kasen\kobesta4-2.x
+
+KasenSK2L100,kasen\SuperKode2R100.x
+KasenSK2R100,kasen\SuperKode2L100.x
+KasenSK2L50,kasen\SuperKode2R50.x
+KasenSK2R50,kasen\SuperKode2L50.x
+KasenSK2L40,kasen\SuperKode2R40.x
+KasenSK2R40,kasen\SuperKode2L40.x
+KasenSK2L30,kasen\SuperKode2R30.x
+KasenSK2R30,kasen\SuperKode2L30.x
+KasenSK2L5,kasen\SuperKode2R5.x
+KasenSK2R5,kasen\SuperKode2L5.x
+
+KasenSKL,kasen\SuperKodeR.x
+KasenSKR,kasen\SuperKodeL.x
+KasenSKL5m,kasen\SuperKodeR5m.x
+KasenSKR5m,kasen\SuperKodeL5m.x
+KasenSKL100,kasen\SuperKodeR100.x
+KasenSKR100,kasen\SuperKodeL100.x
+kasen-staL,kasen\station_powerR.x
+kasen-staR,kasen\station_powerL.x
+kasen-sta2L,kasen\station_2R.x
+kasen-sta2R,kasen\station_2L.x
+kasen-tonR,kasen\tonR.x
+kasen-tonL,kasen\tonL.x
+kasenSEL,kasen\AC15000ST-L.x
+kasenSER,kasen\AC15000ST-R.x
+kasenSLtoR,kasen\SuperKodeLtoR.x
+kasenSRtoL,kasen\SuperKodeRtoL.x
+
+#signal
+TE,N-station\T-E.x
+T2,N-station\T-2.x
+T3,N-station\T-3.x
+T4,N-station\T-4.x
+T6,N-station\T-6.x
+T8,N-station\T-8.x
+T9,N-station\T-9.x
+T12,N-station\T-12.x
+TA,N-station\T-A.x
+TBE,N-station\TB-E.x
+TB2,N-station\TB-2.x
+TB3,N-station\TB-3.x
+TB4,N-station\TB-4.x
+TB6,N-station\TB-6.x
+TB8,N-station\TB-8.x
+TB9,N-station\TB-9.x
+2-6,N-station\2-6.x
+8-12,N-station\8-12.x
+TB12,N-station\TB-12.x
+TBA,N-station\TB-A.x
+T-2,N-station\T2.x
+T-3,N-station\T3.x
+#Y10K,ATC\y10k.x
+#Y05K,ATC\y05k.x
+#A150,ATC\A150.x
+#A135,ATC\A135.x
+#A100,ATC\A100.x
+#A75,ATC\A75.x
+#A60,ATC\A60.x
+#A35,ATC\A35.x
+#A15,ATC\A15.x
+

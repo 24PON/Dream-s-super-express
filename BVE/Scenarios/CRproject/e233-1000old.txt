@@ -1,0 +1,63 @@
+bvets train 0.01
+
+
+
+[structure]
+key=E232-1000tc
+distance=23
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000M
+distance=43
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000M2
+distance=63
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000M
+distance=83
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000M2
+distance=103
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000T
+distance=123
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000T
+distance=143
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000M
+distance=163
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000M2
+distance=183
+Span = 13.8
+Z = 17.15
+
+[structure]
+key=E233-1000Tc
+distance=203
+Span = 13.8
+Z = 17.15

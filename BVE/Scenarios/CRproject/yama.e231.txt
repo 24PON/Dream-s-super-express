@@ -1,0 +1,74 @@
+﻿BveTs Train 1.00
+
+
+#松戸車両センター
+#E231系15両
+#手前が上野方
+#author : aki (blog:http://akipokorin777.blog76.fc2.com/ )
+
+[Structure]
+Key = yama.tcF
+Distance = 22.85
+Span = 13.8
+Z = -2.15
+
+[Structure]
+Key = yama.midMA
+Distance = 42.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.midA
+Distance = 62.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.midA
+Distance = 82.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.midMA
+Distance = 102.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.midA
+Distance = 122.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.midA
+Distance = 142.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.midMA
+Distance = 162.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.midMA
+Distance = 182.85
+Span = 13.8
+Z = -2.85
+
+
+[Structure]
+Key = yama.midA
+Distance = 202.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = yama.tcR
+Distance = 222.85
+Span = 13.8
+Z = -2.85

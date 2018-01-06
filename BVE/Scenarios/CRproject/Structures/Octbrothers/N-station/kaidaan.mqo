@@ -1,0 +1,459 @@
+Metasequoia Document
+Format Text Ver 1.0
+
+Scene {
+	pos 387.6948 -0.0722 2328.3079
+	lookat 0.0000 0.0000 0.0000
+	head 28.4641
+	pich 0.4008
+	bank -0.0100
+	ortho 0
+	zoom2 3.2211
+	amb 0.250 0.250 0.250
+	dirlights 1 {
+		light {
+			dir 0.408 0.408 0.816
+			color 1.000 1.000 1.000
+		}
+	}
+}
+Material 6 {
+	"mat2" col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00) tex("kaidan.png") proj_type(1) proj_pos(524.000 80.000 -25.000) proj_scale(-226.350 112.500 0.001) proj_angle(0.000 90.000 0.000)
+	"mat1" col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00) tex("kaidankabe.png") proj_type(1) proj_pos(50.000 125.000 250.000) proj_scale(50.000 50.000 2.000) proj_angle(90.000 0.000 0.000)
+	"mat3" col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00)
+	"mat4" col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00) tex("kaidankabe2.png") proj_type(1) proj_pos(300.000 125.000 300.000) proj_scale(300.000 50.000 0.001) proj_angle(90.000 0.000 0.000)
+	"mat5" col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00) tex("kaidankabe2.png") proj_type(1) proj_pos(525.000 125.000 600.000) proj_scale(225.000 50.000 0.001) proj_angle(0.000 0.000 0.000)
+	"mat6" col(0.071 0.071 0.071 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00)
+}
+Object "obj1" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 4 {
+		300.0000 75.0000 0.0000
+		300.0000 75.0000 600.0000
+		300.0000 175.0000 0.0000
+		300.0000 175.0000 600.0000
+	}
+	face 2 {
+		4 V(2 3 1 0) M(1) UV(3.00000 0.00000 -3.00000 0.00000 -3.00000 1.00000 3.00000 1.00000)
+		4 V(0 1 3 2) M(3) UV(1.00000 1.00000 0.00000 1.00000 0.00000 0.00000 1.00000 0.00000)
+	}
+}
+Object "obj2" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj3" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj4" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj5" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj6" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj7" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj8" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj9" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj10" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj11" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj12" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj13" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj14" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj15" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj16" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj17" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj18" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj19" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj20" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj21" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj22" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj23" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj24" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj25" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj26" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj27" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj28" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj29" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj30" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj31" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj32" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj33" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 0 {
+	}
+	face 0 {
+	}
+}
+Object "obj34" {
+	visible 15
+	locking 0
+	shading 1
+	facet 59.5
+	color 0.898 0.498 0.698
+	color_type 0
+	vertex 12 {
+		750.0000 75.0000 0.0000
+		750.0000 75.0000 600.0000
+		750.0000 175.0000 0.0000
+		750.0000 175.0000 600.0000
+		300.0000 175.0000 600.0000
+		300.0000 75.0000 600.0000
+		297.6500 80.0000 -137.5000
+		750.3500 80.0000 -137.5000
+		297.6500 80.0000 87.5000
+		750.3500 80.0000 87.5000
+		300.0000 75.0000 600.0000
+		300.0000 75.0000 0.0000
+	}
+	face 5 {
+		4 V(0 1 3 2) M(1) UV(3.00000 1.00000 -3.00000 1.00000 -3.00000 0.00000 3.00000 0.00000)
+		4 V(3 4 5 1) M(4) UV(1.00000 0.00000 -0.00000 0.00000 -0.00000 1.00000 1.00000 1.00000)
+		4 V(2 3 1 0) M(3) UV(1.00000 0.00000 0.00000 0.00000 0.00000 1.00000 1.00000 1.00000)
+		4 V(6 7 9 8) M(0) UV(1.00000 1.00000 0.00000 1.00000 0.00000 0.00000 1.00000 0.00000)
+		4 V(11 0 1 10) M(5) UV(-0.00000 1.00000 1.00000 1.00000 1.00000 1.00000 -0.00000 1.00000)
+	}
+}
+Eof

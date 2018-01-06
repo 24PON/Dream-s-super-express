@@ -1,0 +1,18 @@
+;ƒz[ƒ€•Ç‚»‚Ì2 ////////////////////,,,,
+CreateMeshBuilder,,,,
+AddVertex,-0.02,0.5,0,
+AddVertex,0.02,0.5,0,
+AddVertex,0.02,0.4,0,
+AddVertex,-0.02,0.5,16,
+AddVertex,0.02,0.5,16,
+AddVertex,0.02,0.4,16,
+AddFace,2,1,4,5
+AddFace,1,0,3,4
+GenerateNormals,,,,
+LoadTexture,staw07.bmp,,,
+SetTextureCoordinates,0,1,0,
+SetTextureCoordinates,1,0.8,0,
+SetTextureCoordinates,2,0,0,
+SetTextureCoordinates,3,1,32,
+SetTextureCoordinates,4,0.8,32,
+SetTextureCoordinates,5,0,32,

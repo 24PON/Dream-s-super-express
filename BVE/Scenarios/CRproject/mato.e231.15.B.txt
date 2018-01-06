@@ -1,0 +1,98 @@
+BveTs Train 1.00
+
+
+#松戸車両センター
+#E231系15両
+#手前が取手方
+#author : aki (blog:http://akipokorin777.blog76.fc2.com/ )
+
+[Structure]
+Key = joban.tcF
+Distance = 2.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midB
+Distance = 22.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midMB
+Distance = 42.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midB
+Distance = 62.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.tcR
+Distance = 82.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.tcF
+Distance = 102.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midB
+Distance = 122.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midMB
+Distance = 142.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midB
+Distance = 162.85
+Span = 13.8
+Z = -2.85
+
+
+[Structure]
+Key = joban.midB
+Distance = 182.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midB
+Distance = 202.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midB
+Distance = 222.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midMB
+Distance = 242.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.midB
+Distance = 262.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = joban.tcR
+Distance = 282.85
+Span = 13.8
+Z = -2.85

@@ -1,0 +1,36 @@
+BveTs Train 1.00
+
+#小山車両センター・国府津車両センター
+#E231系5両
+#手前が上野・伊東・沼津方
+#author : aki (blog:http://akipokorin777.blog76.fc2.com/ )
+
+[Structure]
+Key = tcF
+Distance = 2.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = midA
+Distance = 22.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = midMA
+Distance = 42.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = midA
+Distance = 62.85
+Span = 13.8
+Z = -2.85
+
+[Structure]
+Key = tcR
+Distance = 82.85
+Span = 13.8
+Z = -2.85

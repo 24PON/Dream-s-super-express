@@ -1,0 +1,11 @@
+﻿BveTs Scenario 1.00
+
+RouteTitle = 架空高速鉄道
+Route = CRproject\Trainmodel.txt
+VehicleTitle = 北九高鐵13000系13052F
+Vehicle = CRproject\N700\Vehicle.txt
+Author = Tako 44 brothers
+Title = 丘山→東京
+Image = CRproject\N700\train-1.png
+Comment = CR東日本部員による独自制作路線　地名は一部架空
+

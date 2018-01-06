@@ -1,0 +1,9 @@
+﻿BveTs Sound List 1.00		
+
+run90      ,sounds\train\run90.wav    ,30
+accel10000  ,sounds\train\accel10000.wav,18
+decel10000  ,sounds\train\decel10000.wav,18
+soundN,Sounds\oldfile\soundN.wav,1
+bell,Sounds\station\bell.wav
+
+

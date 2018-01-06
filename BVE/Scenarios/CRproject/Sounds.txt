@@ -1,0 +1,21 @@
+﻿BveTs Sound List 2.00
+#CR project
+
+
+
+#housou
+
+Dokayama,Sounds\shinkansen\dep-okayama.wav
+Ashinkobe,Sounds\shinkansen\arv-shinkobe.wav
+Ahimeji,Sounds\shinkansen\arv-himeji.wav
+Anagoya,Sounds\shinkansen\arv-nagoya.wav
+Dnagoya,Sounds\shinkansen\dep-nagoya.wav
+Ashinosaka,Sounds\shinkansen\arv-shinosaka.wav
+Ashinagawa,Sounds\shinkansen\arv-shinagawa.wav
+Atokyo,Sounds\shinkansen\arv-tokyo.wav
+
+
+
+
+
+#TrainATC
